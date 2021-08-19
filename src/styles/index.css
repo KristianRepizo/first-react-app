@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  font: oblique bold 120% cursive;
+  text-decoration: none;
+}
+
+p {
+  font: oblique bold 120% cursive;
+}
+
+h1 {
+  font: oblique bold 120% cursive;
+  font-size: 30px;
+}
+
